@@ -179,7 +179,6 @@
     <ClInclude Include="kinematicChain.h" />
     <ClInclude Include="locked_variable.h" />
     <ClInclude Include="MyGui.h" />
-    <ClInclude Include="myMat.h" />
     <ClInclude Include="cyclic_buffer_static.h" />
     <ClInclude Include="timer.h" />
     <ClInclude Include="vecmath.h" />
